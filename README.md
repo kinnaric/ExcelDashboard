@@ -1,2 +1,2 @@
 # ExcelDashboard
-ExcelDashboard
+Water Quality Prediction Dashboard
